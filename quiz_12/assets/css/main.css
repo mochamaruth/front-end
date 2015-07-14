@@ -1,0 +1,55 @@
+#container{
+  max-width:700px;
+  border:1px solid #000000; 
+  margin:0px auto;
+  margin-top: 30px;
+  margin-bottom:30px; 
+}
+
+#heading{
+   max-width:80%;
+   background-color:#a72024;
+   border:1% solid black;
+  text-align:center;
+  text-transform:uppercase;
+  padding:05% 10%;
+  font-size: 100%;
+}
+#image{
+  max-width:80%;
+  max-height: 50%;
+  background-color: #000000;
+  padding:05% 10%;
+}
+#youtube{
+  max-width:80%;
+  max-height: 50%;
+  background-color: #000000;
+   padding:05% 10%;
+
+
+}
+#panel_one{
+   max-width:30%;
+   float:left;
+   padding:05% 10%;
+    background-color: #000000;
+    color:#ffffff;
+
+}
+#panel_two{
+  max-width:30%;
+  float:right;
+  padding:05% 10%;
+  background-color:#000000;
+  color:#ffffff;
+}
+#last_panel{
+  max-width: 80%;
+  background-color: #000000;
+  padding:05% 10%;
+  color: #ffffff;
+}
+img{
+  width:100%;
+}

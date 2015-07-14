@@ -1,0 +1,43 @@
+#container{
+	background-color:#3D1F5C;
+	width:700px;
+	margin:0px auto;
+	outline-style:solid;
+	outline-color: 000000;
+	outline-width:5px;
+}
+
+.topic{
+	text-align: center;
+	font-family: arial;
+	text-transform: uppercase;
+	padding :20px 40px 20px 40px;
+}
+
+.akirachix{
+   font-family: verdana;
+   padding:25px 45px 45px 25px;
+}
+
+#heading{
+	background-color:black;
+	padding:50px 200px 50px 200px;
+}
+#list li{
+	display:inline-block;
+	width:150px;
+	background-color: #F6FFFA;
+	text-align: center;
+	outline-color:#00CCFF;
+}
+
+#media{
+	background-color: #ffffff;
+	color:#000000;
+	text-align: center;
+	padding:20px 40px 20px 40px;
+	}
+
+html{
+	background-color: #990099;
+}

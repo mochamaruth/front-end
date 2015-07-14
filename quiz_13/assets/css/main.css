@@ -1,0 +1,303 @@
+#main{
+	height:336px;
+	width:642px;
+	background:-moz-linear-gradient(right, #9fcbca, #d0b6b7);
+	margin-top:100px;
+	margin-left:400px;
+	border:1px solid #a0c8c7;
+}
+
+/****************this defines the hovering property for all the a tags in row one,two and five***************/
+a:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+}
+/***************************hovering property ends here******************/
+/****************this affects alll the rows*******/
+.row{
+	width:406px;
+	height:55px;
+	background-color:#ffffff; 
+	margin-right:117px;
+	margin-left: 117px;
+	font-size: 25px;
+	line-height: 55px;
+	text-align: center;
+}
+/**************************rows ends here******************/
+/************************start of row one ****/
+#row_one{
+	margin-top:20px;
+	margin-bottom: 6px;
+}
+.one{
+	background-color:#ffffff;
+	color:#6c7177;
+	width:33px;
+    height: 33px;
+	margin-top: 11px 0px;
+	border: 2px solid #6c7177;
+	padding:0px 05px;
+	}
+.onea{
+	background-color:#ffffff;
+	color:#6c7177;
+	width:33px;
+    height: 33px;
+	margin-top: 11px 0px;
+	border: 2px solid #ca1f27;
+	padding:0px 05px;
+	}
+.pinterest{
+	color: #ca1f27;
+	}
+.pinterest:hover{
+	color: #A572D4;
+}
+
+/*********************************end of row one*************/	
+
+/***********************start of row two****************/
+#row_two{
+	margin-bottom:6px;
+
+}
+.two{
+	background-color:#ffffff;
+	color:#6c7177;
+	width:33px;
+    height: 33px;
+	margin-top: 11px 0px;
+	border: 2px solid #6c7177;
+	padding:0px 05px;
+	border-radius: 5px;
+	}
+.twoa{
+	background-color:#fe0285;
+	color:#ffffff;
+	width:33px;
+    height: 33px;
+	margin-top: 11px 0px;
+	border: 2px solid #fe0285;
+	padding:0px 05px;
+	border-radius: 5px;
+	}
+
+/*******************8end of row two***********/
+/*************************start of row three ******************/
+#row_three{
+	margin-bottom: 6px;
+}
+#a3:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#b3:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#c3:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#d3:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#e3:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#f3:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#g3:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#h3:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+.three{
+	width:33px;
+    height: 33px;
+	margin-top: 11px 0px;
+	border: 2px solid #6c7177;
+	padding:0px 05px;
+	border-radius: 5px;
+	}
+#a3{
+	background-color:#f874a5;
+	color:#fff7ed;
+	border: 2px solid #f874a5;
+	}
+#b3{
+	background-color:#3b5a9a;
+	color:#fefffb;
+	border: 2px solid #3b5a9a;
+	}
+#c3{
+	background-color:#ff0084;
+	color:#feffff;
+	border: 2px solid #ff0084;
+	}
+#d3{
+	background-color:#f63c25;
+	color:#ffffff;
+	border: 2px solid #f63c25;
+	}
+#e3{
+	background-color:#507da4;
+	color:#fffeff;
+	border: 2px solid #507da4;
+	}
+#f3{
+	background-color:#cb2028;
+	color:#fefffd;
+	border: 2px solid #cb2028;
+	}
+#g3{
+	background-color:#2baadf;
+	color:#fffffd;
+	border: 2px solid #2baadf;
+	}
+#h3{
+	background-color:#ff3430;
+	color:#fefffb;
+	border: 2px solid #ff3430;
+	}
+/**********************start of row four*****************/
+#row_four{
+	margin-bottom: 6px;
+}
+#a4:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#b4:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#c4:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#d4:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#e4:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#f4:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#g4:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+#h4:hover{
+	color:#A572D4;
+	background-color:#010D0A;
+	border:2px solid #000000;
+	}
+.four{
+	width:33px;
+    height: 33px;
+	margin-top: 11px 0px;
+	border: 2px solid #6c7177;
+	padding:0px 05px;
+	border-radius: 5px;
+	}
+#a4{
+	background-color:#1dbc9e;
+	color:#fff7ed;
+	border: 2px solid #1dbc9e;
+	}
+#b4{
+	background-color:#31cb71;
+	color:#fefffb;
+	border: 2px solid #31cb71;
+	}
+#c4{
+	background-color:#3599dd;
+	color:#feffff;
+	border: 2px solid #3599dd;
+	}
+#d4{
+	background-color:#9c59b8;
+	color:#ffffff;
+	border: 2px solid #9c59b8;
+	}
+#e4{
+	background-color:#334960;
+	color:#fffeff;
+	border: 2px solid #334960;
+	}
+#f4{
+	background-color:#f49c14;
+	color:#fefffd;
+	border: 2px solid #f49c14;
+	}
+#g4{
+	background-color:#e77e23;
+	color:#fffffd;
+	border: 2px solid #e77e23;
+	}
+#h4{
+	background-color:#818b8d;
+	color:#fefffb;
+	border: 2px solid #818b8d;
+	}
+/*********************************end of row four*****************/
+/*********************start row five***************************/
+#row_five{
+	margin-bottom: 17px;
+}
+.five{
+	background-color:#ffffff;
+	color:#6c7177;
+	margin-top: 11px 0px;
+	padding:0px 05px;
+	}
+.fivea{
+	width:33px;
+    height: 33px;
+	margin-top: 11px 0px;
+	padding:0px 05px;
+	}
+.flickr{
+	color: #ff0085;
+	}
+.flickr:hover{
+color:#A572D4;	
+}
+
+/**************************iend row five******************/
+html{
+  background-color: #000000;
+}
+
+
+
+	

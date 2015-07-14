@@ -1,0 +1,55 @@
+.panel{
+	width:100%;
+	height:100px;
+	position:fixed;
+	background-color:#020103;
+	opacity:0.8;
+
+}
+
+#main{
+	background-color:#870dbf;
+    padding:100px 50px;
+
+}
+
+li{
+	display:inline-block;
+	font-weight:bold;
+	color:#f9faf7;
+	padding:0px 60px;
+
+}
+
+#header-panel{
+	top:0px;
+}
+
+p{
+	font-family: times;
+	font-weight:normal;
+}
+
+#newsletter{
+	float:right;
+	padding:200px 10px;
+}
+
+#newsletter p{
+	font-weight:bold;
+    font-size:15px;
+}
+
+a{
+	text-decoration:none;
+	height:100px;
+	width:50px;
+	border-radius:5px;
+	background-color:#000000;
+	font-size:20px;
+	padding:10px;
+}
+
+span{
+	color:#ffffff;
+}

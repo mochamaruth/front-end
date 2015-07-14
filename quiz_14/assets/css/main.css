@@ -1,0 +1,161 @@
+#main{
+	width:870px;
+	height:1300px;
+	margin:0px auto;
+	margin-top:25px;
+	margin-bottom: 25px;
+	font-family: arial;
+	background-color: #f3f3f3;
+}
+html{
+	background-color: #000000;
+}
+hr{
+	color:#ce8a05;
+}	
+.hr{
+	color:#dedede;
+	width:90%;
+}
+.paragraph{
+	padding-right:10%;
+}
+/**************styling header div***************************/
+#header{
+	height:12%;
+}
+.heading{
+color:#ce8a05;
+padding-left: 05%;
+font-family: 'Roboto', sans-serif;
+}
+a{
+	font-size:150%;
+	color:#5F6163;
+	padding:0% 00% 0% 0%;
+}
+#image{
+	width: 10.8%;
+	height:10.2%;
+}
+#names{
+	padding-left:10%;	
+}
+#names h2{
+	color:#000000;
+}
+#header li{
+	display: inline-block;
+	list-style-type: none;
+}
+#contacts{
+	float: right;
+	padding-left:10%; 
+}
+img{
+	border-radius:50%;
+	width:150%; 
+}
+ol{
+	display: inline-block;
+	list-style-type: none;
+}
+/**************end of header*************************************/
+/****************************************styling of body******************/
+#body h2{
+	float left;
+	display:inline;
+	width:35%;
+}
+#body p{
+     width:60%;
+     float:right;
+	 margin-top:0%;
+	}
+/*********************end of body***************************/
+/*****************************styling work experience**********/
+#bodya h2{
+	float:left;
+	display:inline;
+	width:25%;
+}
+.one{
+	width:70%;
+	float:right;
+}
+#bodyb{
+	margin-top:0%;
+	width:70%;
+	float:right;
+}
+#bodyc{
+	margin-top:0%;
+	width:70%;
+	float:right;
+}
+/********************888end of work experience****************/
+/*********************skills***********************/
+#skillshead{
+	float:left;
+	display:inline;
+	width:25%;
+}
+#skills{
+	margin-top:2%; 
+	float:right;
+	width:70%;
+	margin-bottom:2%;
+}
+.bar{
+	width:90%;
+	height:20px;
+	background-color:#cccccc;
+}
+.barone{
+	width:85%;
+	height:100%;
+	background-color:#ce8a05;
+}
+.bartwo{
+	width:75%;
+	height:100%;
+	background-color:#ce8a05;
+}
+.barthree{
+	width:50%;
+	height:100%;
+	background-color:#ce8a05;
+}
+.barfour{
+	width:60%;
+	height:100%;
+	background-color:#ce8a05;
+}
+/********************************styling skills *********************/
+/*******************hobbies****************/
+#hobbies h2{
+	float left;
+	display:inline;
+	width:35%;
+}
+.hobby{
+	margin-top:0%;
+	width:60%;
+	float:right;
+	padding-right:10%;
+}
+
+/*****************************styling education**********/
+#footer h2{
+	float left;
+	display:inline;
+	width:35%;
+}
+.edu{
+	margin-top:0%;
+	width:60%;
+	float:right;
+	padding-right:10%;
+}
+/********************end of education****************/
+

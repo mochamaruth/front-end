@@ -1,0 +1,102 @@
+/*start:styling divs------------------------------------------------------*/
+#container{
+	background-color:#000000;
+	width:700px;
+	margin:0px auto;
+	outline-style:solid;
+	outline-color: 000000;
+	outline-width:5px;	
+	margin-top:50px;
+	height:0px auto;
+}
+ 
+ /*start:sydney*/       
+#sydney{
+	float: left;
+    width: 275px;
+	min-height:200px;
+	background-color: #ccffcc;
+	margin-right: 50px;
+	margin-left:50px;
+	text-align:center;
+}
+
+#sydney ol{
+	font-weight: bold;
+}
+
+ol li{
+	list-style-position:outside;
+	}
+/*end:sydney*/
+
+
+/*start:architect*/
+#architect{
+	float: right;
+    width: 275px;
+	height:200px;
+	background-color:#80ccff;
+	margin-right:50px;
+	margin-left: 50px;
+	text-align:center;
+	overflow:scroll;
+}
+/*end:architect*/
+
+/*start:events*/
+#events{
+	float: left;
+   width: 275px;
+	height:200px;
+	background-color:#33adff;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 50px;
+	text-align:center;	
+}
+
+ul li{
+	list-style-type:lower-alpha;
+	list-style-position:inside;
+}
+/*end:events*/
+
+/*start:contact*/
+#contact{
+	float: right;
+    width: 275px;
+	height:200px; 
+	background-color:#c7f3f3; 
+	margin-right: 50px;
+	margin-left: 50px; 
+	margin-top: 50px; 
+	text-align:center;
+}
+/*end:contact*/
+
+/*start:house*/
+#house{
+	clear:both;
+	float: none;
+    width:600px;
+	height:200px;
+	margin-top: 50px;  
+	margin-right: 50px;
+	margin-left: 50px;
+	text-align:center;
+	background-image:url(../images/sydney6.jpg);
+  background-color:rgba(49,245,222,0.2);
+  color:#000000;
+}
+/*end:house*/
+
+/*-----------------------------------------------------end:styling divs*/
+html{ 
+  background-color:#333329;
+
+}
+h2{
+	text-transform: capitalize;
+	text-align:center;
+}

@@ -1,0 +1,44 @@
+body{
+	background-color:aqua;
+   
+ }
+
+.heading{
+	font-family:arial;
+    border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	background-color:blue;
+	float:inherit;
+	outline-style: dotted;
+	outline-color:red;
+	text-align: center;
+}
+
+h1{
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	background-color:lime;
+}
+
+#lists{
+	background-color: white;
+
+}
+
+ol li span{
+	width: 100px;
+	display: inline-block;
+}
+
+ul{
+   border-top: 20px solid black;
+	border-bottom: 20px solid black;
+	border-right: 20px solid black;
+	border-left: 20px solid black;
+	background-color:silver;
+    float:right;
+}
